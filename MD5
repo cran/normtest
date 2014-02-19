@@ -1,0 +1,14 @@
+ac3641a8197ec9c4349326f8b6bcd289 *DESCRIPTION
+7a19fee4c642dcdee75ed9e371a6043e *NAMESPACE
+1b07fa813ea9bc1d17a6ea7f0b93b5b5 *R/frozini.norm.test.R
+758917b8f2116be5c784ab22147a8fcd *R/geary.norm.test.R
+559d8923bf762e18e5e612505f22d071 *R/hegazy1.norm.test.R
+432c6263d87c92c073ab56ad2ed8f161 *R/hegazy2.norm.test.R
+8440f556acdcc1406a4377ef24229c36 *R/jb.norm.test.R
+8fb8c5e5c0423be2b68700c7b7843436 *R/wb.norm.test.R
+0dd304651c4de8b74ab2bd1181e89f12 *man/frozini.norm.test.Rd
+b16fd34b90009b42c3ce55c9c6556313 *man/geary.norm.test.Rd
+a68b1c90f28f8389a0f5cfbf42a7137a *man/hegazy1.norm.test.Rd
+debe931cdd3392801c29b5d24a91d259 *man/hegazy2.norm.test.Rd
+795f1bfc380f300dbe19c8b4aa1526ed *man/jb.norm.test.Rd
+bc33a42d9816f8450c336cfcb33a16aa *man/wb.norm.test.Rd
