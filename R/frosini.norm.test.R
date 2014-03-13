@@ -1,4 +1,4 @@
-frozini.norm.test<-function(x, nrepl=2000)
+frosini.norm.test<-function(x, nrepl=2000)
 {
 DNAME <- deparse(substitute(x))
 l<-0
@@ -17,7 +17,7 @@ for(i in 1:nrepl)
 	if (B>b) l=l+1
 }
 p.value<-l/nrepl
-RVAL<-list(statistic=c(B=b), p.value=p.value, method="Frozini test for normality",data.name = DNAME)
+RVAL<-list(statistic=c(B=b), p.value=p.value, method="Frosini test for normality",data.name = DNAME)
 class(RVAL)<-"htest"
 return(RVAL)
 }
